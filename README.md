@@ -1,7 +1,8 @@
 # Tech Notes
 
-This repository contains short, focused notes on technical concepts and
-tooling learned during daily development and study.
+This repository contains short, focused notes on technical topics,
+tools, and industry-related observations encountered during ongoing
+development and study.
 
-Each note captures a single idea or clarification that was not obvious
-before encountering it.
+The notes capture non-obvious details, practical clarifications, and
+context that can influence technical understanding and decision-making.
